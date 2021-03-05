@@ -1,16 +1,17 @@
-id: opecha:P007882
+id: P007882
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3410
   title: གཅོད་ཚོགས་ཡོན་ཏན་ཀུན་འབྱུང་
-  volume:
+  author: ''
+  volumes:
     ebe301e88d0948be91047fa60958d2c2:
       image_group_id: I1KG3502
       title: Volume 1 of gcod kyi tshogs las yon tan kun 'byung gsungs rgyun 'khrul
         med ltar bkod pa'i dbu phyogs
       volume_number: 1
       total_pages: 174
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཅོད་ཚོགས་ཡོན་ཏན་ཀུན་འབྱུང་
   author: ''
