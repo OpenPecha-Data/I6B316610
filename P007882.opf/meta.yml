@@ -5,11 +5,13 @@ source_metadata:
   title: གཅོད་ཚོགས་ཡོན་ཏན་ཀུན་འབྱུང་
   author: ''
   volumes:
-    b306b71262fc49caa545cc0bba6b8fdd:
+    ebe301e88d0948be91047fa60958d2c2:
       image_group_id: I1KG3502
-      title: ''
+      title: Volume 1 of gcod kyi tshogs las yon tan kun 'byung gsungs rgyun 'khrul
+        med ltar bkod pa'i dbu phyogs
       volume_number: 1
       total_pages: 174
+      base_file: v001.txt
 ebook_metadata:
   title: གཅོད་ཚོགས་ཡོན་ཏན་ཀུན་འབྱུང་
   author: ''
